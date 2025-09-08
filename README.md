@@ -1,3 +1,3 @@
 # Homework1
-Homework (inclass) #1
-Due 9/16/2024
+Homework #1
+Due 9/15/2025
